@@ -4,4 +4,4 @@ This was a Codecademy Pro Portfolio project aimed at practicing natural language
 The project itself was done with Python 3.0 and Jupyter Notebook. I used the data set "clean_nus_sms.csv" as provided to me by Codecademy, and utilized Pandas, Seaborn, Matplotlib, re, Gensim, collections, NLTK, and scikit-learn. The Jupyter Notebook file containing my analysis is included as "nlp_portfolio_project_MAC.ipynb."
 
 The data set used in this project was provided by Codecademy; it is the National University of Singapore SMS Corpus data set, made publicly available by The National University of Singapore. It was compiled by Tao Chen and Min-Yen Kan, as detailed in the following publication: <br>Tao Chen and Min-Yen Kan (2013). Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus. Language Resources and Evaluation, 47(2)(2013), pages 299-355. Paper URL: https://link.springer.com/article/10.1007%2Fs10579-012-9197-9
-I have included the data set provided by Codecademy in this repository; its file name is "clean_nus_sms.csv."
+<br> I have included the data set provided by Codecademy in this repository; its file name is "clean_nus_sms.csv."
